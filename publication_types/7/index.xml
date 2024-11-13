@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 on Cristobal Cheyre</title>
+    <link>http://ccheyre.github.io/publication_types/7/</link>
+    <description>Recent content in 7 on Cristobal Cheyre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Tue, 12 Nov 2024 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://ccheyre.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The impact of the GDPR on content providers</title>
+      <link>http://ccheyre.github.io/publication/gdpr/</link>
+      <pubDate>Tue, 12 Nov 2024 00:00:00 -0500</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/gdpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces</title>
+      <link>http://ccheyre.github.io/publication/fakperfects/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/fakperfects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughtful Adoption of NLP for Civic Participation: Understanding Differences Among Policymakers</title>
+      <link>http://ccheyre.github.io/publication/thoughtfulnlp/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/thoughtfulnlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo-Automation: How Labor-Offsetting Technologies Reconfigure Roles and Relationships in Frontline Retail Work</title>
+      <link>http://ccheyre.github.io/publication/pseudoaut/</link>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/pseudoaut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Generative AI to Design Public Spaces: a Reflection of how AI Could Improve Co-Design of Public Parks</title>
+      <link>http://ccheyre.github.io/publication/igaiparks/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/igaiparks/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

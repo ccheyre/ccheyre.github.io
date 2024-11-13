@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Cristobal Cheyre</title>
+    <link>http://ccheyre.github.io/home/</link>
+    <description>Recent content in Homes on Cristobal Cheyre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ccheyre.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://ccheyre.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/about/</guid>
+      <description>Biography I am an Assistant Professor in the Department of Information Science at the Ann S. Bowers College of Computing and Information Science at Cornell University. My research focuses on understanding the economic and societal effects of the technologies that shape our increasingly data-driven society. The goal of my research is to understand both the benefits of digitization and the factors influencing how those gains are allocated across stakeholders.</description>
+    </item>
+    
+    <item>
+      <title>Recently Accepted</title>
+      <link>http://ccheyre.github.io/home/recently_accepted/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/recently_accepted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working Papers</title>
+      <link>http://ccheyre.github.io/home/working_papers/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/working_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other Publications</title>
+      <link>http://ccheyre.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work in Progress</title>
+      <link>http://ccheyre.github.io/home/work_in_progress/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/work_in_progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>http://ccheyre.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/teaching/</guid>
+      <description>Networks II: Market Design This course covers different mathematical models to understand how markets operate and how we can design them to influence agents’ behavior and produce the outcomes we need. We also explore what defines network economies, multi-sided markets, and platforms.
+*Cornell University (Spring 2020, Spring 2021, Spring 2022)
+Privacy and Security in the Data Economy The course is structured around three broad topics. We first study how privacy has been understood over time, and how the economic analysis of privacy has evolved as the use of computing and connectivity has increased.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://ccheyre.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

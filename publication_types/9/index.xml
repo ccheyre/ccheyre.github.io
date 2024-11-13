@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>9 on Cristobal Cheyre</title>
+    <link>http://ccheyre.github.io/publication_types/9/</link>
+    <description>Recent content in 9 on Cristobal Cheyre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ccheyre.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Do Black Lives Matter on Kickstarter?</title>
+      <link>http://ccheyre.github.io/publication/blmkickstarter/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/blmkickstarter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How race and gender stereotypes impact crowdfunding outcomes</title>
+      <link>http://ccheyre.github.io/publication/racegender/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/racegender/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
