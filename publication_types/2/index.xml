@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Cristobal Cheyre</title>
+    <link>http://ccheyre.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Cristobal Cheyre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Tue, 31 May 2022 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ccheyre.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Impact of Viral Posts on Visibility and Behavior of Professionals: A Longitudinal Study of Scientists on Twitter </title>
+      <link>http://ccheyre.github.io/publication/icwsm2022/</link>
+      <pubDate>Tue, 31 May 2022 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/icwsm2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spinoffs and the ascension of Silicon Valley</title>
+      <link>http://ccheyre.github.io/publication/icc2015/</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/icc2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spinoffs and the Mobility of U.S. Merchant Semiconductor Inventors</title>
+      <link>http://ccheyre.github.io/publication/ckv2014/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/ckv2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 on Cristobal Cheyre</title>
+    <link>http://ccheyre.github.io/publication_types/8/</link>
+    <description>Recent content in 8 on Cristobal Cheyre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2023</copyright>
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="http://ccheyre.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>An Experimental Infrastructure to Investigate the Impact of Online Tracking, Targeting, and Advertising on Consumer Behavior and Consumer Welfare</title>
+      <link>http://ccheyre.github.io/publication/abproject/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/abproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Are There Economic Grounds for Regulating Behavioral Ads?</title>
+      <link>http://ccheyre.github.io/publication/regbehads/</link>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/regbehads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Intermediation in Legacy Industries: Evidence from the Adoption of Restaurant Reservation Platforms</title>
+      <link>http://ccheyre.github.io/publication/ot2018/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 -0500</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/ot2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Welfare Effects of Ad Blocking</title>
+      <link>http://ccheyre.github.io/publication/abwta/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 -0500</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/abwta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of the Apple Tracking Transparency Framework on the App Ecosystem</title>
+      <link>http://ccheyre.github.io/publication/att/</link>
+      <pubDate>Thu, 25 May 2023 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/att/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
