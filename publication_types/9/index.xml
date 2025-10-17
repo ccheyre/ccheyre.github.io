@@ -7,26 +7,53 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Tue, 04 Apr 2023 00:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://ccheyre.github.io/publication_types/9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Do Black Lives Matter on Kickstarter?</title>
-      <link>http://ccheyre.github.io/publication/blmkickstarter/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 -0400</pubDate>
+      <title>An Experimental Infrastructure to Investigate the Impact of Online Tracking, Targeting, and Advertising on Consumer Behavior and Consumer Welfare</title>
+      <link>http://ccheyre.github.io/publication/abproject/</link>
+      <pubDate>Wed, 30 Oct 2024 00:00:00 -0400</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/blmkickstarter/</guid>
+      <guid>http://ccheyre.github.io/publication/abproject/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Welfare Effects of Ad Blocking</title>
+      <link>http://ccheyre.github.io/publication/abwta/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 -0500</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/abwta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How race and gender stereotypes impact crowdfunding outcomes</title>
       <link>http://ccheyre.github.io/publication/racegender/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/publication/racegender/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“Addressing the Paradoxical Nature of Emerging Technologies in Transformative Technology Policy Mixes</title>
+      <link>http://ccheyre.github.io/publication/paradoxicaltech/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/paradoxicaltech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“The Cursed Equilibrium of Algorithmic Traumatization</title>
+      <link>http://ccheyre.github.io/publication/ceat/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/ceat/</guid>
       <description></description>
     </item>
     

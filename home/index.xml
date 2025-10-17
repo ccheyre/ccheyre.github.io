@@ -18,7 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/home/about/</guid>
-      <description>Biography I am an Assistant Professor in the Department of Information Science at the Ann S. Bowers College of Computing and Information Science at Cornell University. My research focuses on understanding the economic and societal effects of the technologies that shape our increasingly data-driven society. The goal of my research is to understand both the benefits of digitization and the factors influencing how those gains are allocated across stakeholders.</description>
+      <description>Biography I am an Assistant Professor in the Department of Information Science at the Ann S. Bowers College of Computing and Information Science at Cornell University. My research investigates how emerging information technologies reshape economic systems and influence social behavior, combining large-scale empirical analysis and experimental methods to connect the design of digital systems with their real-world consequences.
+My ongoing work focuses on timely issues in the digital economy, including studies on privacy regulations, the economics of online platforms, and the multi-faceted consequences of data-driven technologies and AI.</description>
     </item>
     
     <item>
@@ -31,7 +32,7 @@
     </item>
     
     <item>
-      <title>Working Papers</title>
+      <title>Drafts in the Review Process</title>
       <link>http://ccheyre.github.io/home/working_papers/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -40,7 +41,7 @@
     </item>
     
     <item>
-      <title>Other Publications</title>
+      <title>Publications</title>
       <link>http://ccheyre.github.io/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -49,7 +50,7 @@
     </item>
     
     <item>
-      <title>Work in Progress</title>
+      <title>Working Papers</title>
       <link>http://ccheyre.github.io/home/work_in_progress/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
@@ -64,7 +65,7 @@
       
       <guid>http://ccheyre.github.io/home/teaching/</guid>
       <description>Networks II: Market Design This course covers different mathematical models to understand how markets operate and how we can design them to influence agents’ behavior and produce the outcomes we need. We also explore what defines network economies, multi-sided markets, and platforms.
-*Cornell University (Spring 2020, Spring 2021, Spring 2022)
+Cornell University (Spring 2020-2025)
 Privacy and Security in the Data Economy The course is structured around three broad topics. We first study how privacy has been understood over time, and how the economic analysis of privacy has evolved as the use of computing and connectivity has increased.</description>
     </item>
     
