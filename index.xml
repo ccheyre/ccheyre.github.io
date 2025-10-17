@@ -11,36 +11,63 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The impact of the GDPR on content providers</title>
+      <title>Did Apple&#39;s App Tracking Transparency Framework Harm the App Ecosystem?</title>
+      <link>http://ccheyre.github.io/publication/att/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/att/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Privacy Regulation Harm Content Providers? A Longitudinal Analysis of the Impact of the GDPR</title>
+      <link>http://ccheyre.github.io/publication/gdpr-copy/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/gdpr-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Privacy Regulation Harm Content Providers? A Longitudinal Analysis of the Impact of the GDPR</title>
       <link>http://ccheyre.github.io/publication/gdpr/</link>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 -0500</pubDate>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/publication/gdpr/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces</title>
-      <link>http://ccheyre.github.io/publication/fakperfects/</link>
-      <pubDate>Fri, 01 Nov 2024 00:00:00 -0400</pubDate>
+      <title>Economic Rationales for Regulating Behavioral Ads</title>
+      <link>http://ccheyre.github.io/publication/yjolt-copy/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 -0400</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/fakperfects/</guid>
+      <guid>http://ccheyre.github.io/publication/yjolt-copy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>An Experimental Infrastructure to Investigate the Impact of Online Tracking, Targeting, and Advertising on Consumer Behavior and Consumer Welfare</title>
-      <link>http://ccheyre.github.io/publication/abproject/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 -0400</pubDate>
+      <title>Economic Rationales for Regulating Behavioral Ads</title>
+      <link>http://ccheyre.github.io/publication/yjolt/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 -0400</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/abproject/</guid>
+      <guid>http://ccheyre.github.io/publication/yjolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thoughtful Adoption of NLP for Civic Participation: Understanding Differences Among Policymakers</title>
+      <link>http://ccheyre.github.io/publication/thoughtfulnlp-copy/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/thoughtfulnlp-copy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughtful Adoption of NLP for Civic Participation: Understanding Differences Among Policymakers</title>
       <link>http://ccheyre.github.io/publication/thoughtfulnlp/</link>
-      <pubDate>Wed, 30 Oct 2024 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 30 May 2025 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/publication/thoughtfulnlp/</guid>
       <description></description>
@@ -48,100 +75,73 @@
     
     <item>
       <title>Pseudo-Automation: How Labor-Offsetting Technologies Reconfigure Roles and Relationships in Frontline Retail Work</title>
+      <link>http://ccheyre.github.io/publication/pseudoaut-copy/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/pseudoaut-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pseudo-Automation: How Labor-Offsetting Technologies Reconfigure Roles and Relationships in Frontline Retail Work</title>
       <link>http://ccheyre.github.io/publication/pseudoaut/</link>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 29 May 2025 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/publication/pseudoaut/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Are There Economic Grounds for Regulating Behavioral Ads?</title>
-      <link>http://ccheyre.github.io/publication/regbehads/</link>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 -0400</pubDate>
+      <title>From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces</title>
+      <link>http://ccheyre.github.io/publication/fakperfects-copy/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 -0400</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/regbehads/</guid>
+      <guid>http://ccheyre.github.io/publication/fakperfects-copy/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Image Generative AI to Design Public Spaces: a Reflection of how AI Could Improve Co-Design of Public Parks</title>
-      <link>http://ccheyre.github.io/publication/igaiparks/</link>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 -0400</pubDate>
+      <title>From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces</title>
+      <link>http://ccheyre.github.io/publication/fakperfects/</link>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 -0400</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/igaiparks/</guid>
+      <guid>http://ccheyre.github.io/publication/fakperfects/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Online Intermediation in Legacy Industries: Evidence from the Adoption of Restaurant Reservation Platforms</title>
-      <link>http://ccheyre.github.io/publication/ot2018/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 -0500</pubDate>
-      
-      <guid>http://ccheyre.github.io/publication/ot2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Welfare Effects of Ad Blocking</title>
-      <link>http://ccheyre.github.io/publication/abwta/</link>
-      <pubDate>Thu, 30 Nov 2023 00:00:00 -0500</pubDate>
-      
-      <guid>http://ccheyre.github.io/publication/abwta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of the Apple Tracking Transparency Framework on the App Ecosystem</title>
-      <link>http://ccheyre.github.io/publication/att/</link>
-      <pubDate>Thu, 25 May 2023 00:00:00 -0400</pubDate>
-      
-      <guid>http://ccheyre.github.io/publication/att/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Do Black Lives Matter on Kickstarter?</title>
+      <title>Do #BlackLivesMatter on Kickstarter? Assessing the Impact of Kickstarter&#39;s Support of Black Creators</title>
       <link>http://ccheyre.github.io/publication/blmkickstarter/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 15 Apr 2025 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/publication/blmkickstarter/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How race and gender stereotypes impact crowdfunding outcomes</title>
-      <link>http://ccheyre.github.io/publication/racegender/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 -0400</pubDate>
+      <title>Online Intermediation in Legacy Industries: Evidence from the Adoption of Restaurant Reservation Platforms</title>
+      <link>http://ccheyre.github.io/publication/ot2018/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 -0400</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/racegender/</guid>
+      <guid>http://ccheyre.github.io/publication/ot2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Impact of Viral Posts on Visibility and Behavior of Professionals: A Longitudinal Study of Scientists on Twitter </title>
-      <link>http://ccheyre.github.io/publication/icwsm2022/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 -0400</pubDate>
+      <title>Eyes, Locks, Patterns: AI and Crime Control in the Retail Workplace</title>
+      <link>http://ccheyre.github.io/publication/eyeslockspatterns/</link>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 -0400</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/icwsm2022/</guid>
+      <guid>http://ccheyre.github.io/publication/eyeslockspatterns/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Spinoffs and the ascension of Silicon Valley</title>
-      <link>http://ccheyre.github.io/publication/icc2015/</link>
-      <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+      <title>A Park for All: Layering Transgenerational, Translocal, and Parochial Experiences of Immigrant Communities in Los Angeles</title>
+      <link>http://ccheyre.github.io/publication/parkforall/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 -0500</pubDate>
       
-      <guid>http://ccheyre.github.io/publication/icc2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spinoffs and the Mobility of U.S. Merchant Semiconductor Inventors</title>
-      <link>http://ccheyre.github.io/publication/ckv2014/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
-      
-      <guid>http://ccheyre.github.io/publication/ckv2014/</guid>
+      <guid>http://ccheyre.github.io/publication/parkforall/</guid>
       <description></description>
     </item>
     
