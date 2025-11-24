@@ -18,7 +18,8 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/home/about/</guid>
-      <description>Biography I am an Assistant Professor in the Department of Information Science at the Ann S. Bowers College of Computing and Information Science at Cornell University. My research examines how digital technologies—online platforms, algorithmic systems, digital advertising, and AI—reshape markets, organizations, and consumer behavior. I use large-scale empirical analysis, field experiments, and the design of new data infrastructures to connect the engineering of information systems with their economic and social consequences.</description>
+      <description>Biography I am an Assistant Professor in the Department of Information Science at the Ann S. Bowers College of Computing and Information Science at Cornell University. My research examines how digital technologies—online platforms, algorithmic systems, digital advertising, and AI—reshape markets, competition, and consumer behavior. I use large-scale empirical analysis, field experiments, and the design of new data infrastructures to connect information systems with their economic and social consequences.
+My work addresses central questions in the digital economy, including the effects of privacy regulation on the advertising ecosystem, the economics of online platforms, and the impacts of data-driven technologies and AI on public participation and work.</description>
     </item>
     
     <item>
@@ -32,19 +33,19 @@
     
     <item>
       <title>Drafts in the Review Process</title>
-      <link>http://ccheyre.github.io/home/conferences/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>http://ccheyre.github.io/home/conferences/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drafts in the Review Process</title>
       <link>http://ccheyre.github.io/home/working_papers/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>http://ccheyre.github.io/home/working_papers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Conference Proceedings</title>
+      <link>http://ccheyre.github.io/home/conferences/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>http://ccheyre.github.io/home/conferences/</guid>
       <description></description>
     </item>
     
