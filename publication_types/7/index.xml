@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 on Cristobal Cheyre</title>
@@ -7,24 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="http://ccheyre.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://ccheyre.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Does Privacy Regulation Harm Content Providers? A Longitudinal Analysis of the Impact of the GDPR</title>
       <link>http://ccheyre.github.io/publication/gdpr/</link>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/gdpr/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Eyes, Locks, Patterns, Tiers: How Intelligent Crime-Control Technology Amplifies Demands for Frontline Retail Workers</title>
+      <link>http://ccheyre.github.io/publication/eyeslockspatterns-copy/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/eyeslockspatterns-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Economic Rationales for Regulating Behavioral Ads</title>
       <link>http://ccheyre.github.io/publication/yjolt/</link>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/yjolt/</guid>
       <description></description>

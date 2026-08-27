@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Cristobal Cheyre</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="http://ccheyre.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate><atom:link href="http://ccheyre.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://ccheyre.github.io/home/about/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/about/</guid>
       <description>Biography I am an Assistant Professor in the Department of Information Science at the Ann S. Bowers College of Computing and Information Science at Cornell University. My research examines how digital technologies—online platforms, algorithmic systems, digital advertising, and AI—reshape markets, competition, and consumer behavior. I use large-scale empirical analysis, field experiments, and the design of new data infrastructures to connect information systems with their economic and social consequences.
@@ -25,7 +21,7 @@ My work addresses central questions in the digital economy, including the effect
     <item>
       <title>Recently Accepted</title>
       <link>http://ccheyre.github.io/home/recently_accepted/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/recently_accepted/</guid>
       <description></description>
@@ -34,7 +30,7 @@ My work addresses central questions in the digital economy, including the effect
     <item>
       <title>Drafts in the Review Process</title>
       <link>http://ccheyre.github.io/home/working_papers/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/working_papers/</guid>
       <description></description>
@@ -43,7 +39,7 @@ My work addresses central questions in the digital economy, including the effect
     <item>
       <title>Recent Conference Proceedings</title>
       <link>http://ccheyre.github.io/home/conferences/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/conferences/</guid>
       <description></description>
@@ -52,7 +48,7 @@ My work addresses central questions in the digital economy, including the effect
     <item>
       <title>Publications</title>
       <link>http://ccheyre.github.io/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/publications_selected/</guid>
       <description></description>
@@ -61,7 +57,7 @@ My work addresses central questions in the digital economy, including the effect
     <item>
       <title>Working Papers</title>
       <link>http://ccheyre.github.io/home/work_in_progress/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/work_in_progress/</guid>
       <description></description>
@@ -70,7 +66,7 @@ My work addresses central questions in the digital economy, including the effect
     <item>
       <title>Teaching</title>
       <link>http://ccheyre.github.io/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/teaching/</guid>
       <description>Networks II: Market Design This course covers different mathematical models to understand how markets operate and how we can design them to influence agents’ behavior and produce the outcomes we need. We also explore what defines network economies, multi-sided markets, and platforms.
@@ -81,7 +77,7 @@ Privacy and Security in the Data Economy The course is structured around three b
     <item>
       <title>Contact</title>
       <link>http://ccheyre.github.io/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/home/contact/</guid>
       <description></description>

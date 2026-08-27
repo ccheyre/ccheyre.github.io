@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Cristobal Cheyre</title>
@@ -7,15 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2023</copyright>
-    <lastBuildDate>Fri, 11 Jul 2025 00:00:00 -0400</lastBuildDate>
-    
-	<atom:link href="http://ccheyre.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 11 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://ccheyre.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Does Privacy Regulation Harm Content Providers? A Longitudinal Analysis of the Impact of the GDPR</title>
       <link>http://ccheyre.github.io/publication/gdpr-copy/</link>
-      <pubDate>Fri, 11 Jul 2025 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/gdpr-copy/</guid>
       <description></description>
@@ -24,16 +20,34 @@
     <item>
       <title>Economic Rationales for Regulating Behavioral Ads</title>
       <link>http://ccheyre.github.io/publication/yjolt-copy/</link>
-      <pubDate>Wed, 11 Jun 2025 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/yjolt-copy/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>A Park for All: Layering Transgenerational, Translocal, and Parochial Experiences of Immigrant Communities in Los Angeles</title>
+      <link>http://ccheyre.github.io/publication/parkforall/</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/parkforall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eyes, Locks, Patterns, Tiers: How Intelligent Crime-Control Technology Amplifies Demands for Frontline Retail Workers</title>
+      <link>http://ccheyre.github.io/publication/eyeslockspatterns/</link>
+      <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://ccheyre.github.io/publication/eyeslockspatterns/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Thoughtful Adoption of NLP for Civic Participation: Understanding Differences Among Policymakers</title>
       <link>http://ccheyre.github.io/publication/thoughtfulnlp-copy/</link>
-      <pubDate>Fri, 30 May 2025 00:00:00 -0400</pubDate>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/thoughtfulnlp-copy/</guid>
       <description></description>
@@ -42,7 +56,7 @@
     <item>
       <title>Pseudo-Automation: How Labor-Offsetting Technologies Reconfigure Roles and Relationships in Frontline Retail Work</title>
       <link>http://ccheyre.github.io/publication/pseudoaut-copy/</link>
-      <pubDate>Thu, 29 May 2025 00:00:00 -0400</pubDate>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/pseudoaut-copy/</guid>
       <description></description>
@@ -51,7 +65,7 @@
     <item>
       <title>From Fake Perfects to Conversational Imperfects: Exploring Image-Generative AI as a Boundary Object for Participatory Design of Public Spaces</title>
       <link>http://ccheyre.github.io/publication/fakperfects/</link>
-      <pubDate>Mon, 28 Apr 2025 00:00:00 -0400</pubDate>
+      <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/fakperfects/</guid>
       <description></description>
@@ -60,7 +74,7 @@
     <item>
       <title>Image Generative AI to Design Public Spaces: a Reflection of how AI Could Improve Co-Design of Public Parks</title>
       <link>http://ccheyre.github.io/publication/igaiparks/</link>
-      <pubDate>Wed, 31 Jul 2024 00:00:00 -0400</pubDate>
+      <pubDate>Wed, 31 Jul 2024 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/igaiparks/</guid>
       <description></description>
@@ -69,7 +83,7 @@
     <item>
       <title>Trends in Privacy Dialog Design after the GDPR: The Impact of Industry and Government Actions</title>
       <link>http://ccheyre.github.io/publication/wpes23/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/wpes23/</guid>
       <description></description>
@@ -78,7 +92,7 @@
     <item>
       <title>The Impact of Viral Posts on Visibility and Behavior of Professionals: A Longitudinal Study of Scientists on Twitter </title>
       <link>http://ccheyre.github.io/publication/icwsm2022/</link>
-      <pubDate>Tue, 31 May 2022 00:00:00 -0400</pubDate>
+      <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/icwsm2022/</guid>
       <description></description>
@@ -87,7 +101,7 @@
     <item>
       <title>Spinoffs and the ascension of Silicon Valley</title>
       <link>http://ccheyre.github.io/publication/icc2015/</link>
-      <pubDate>Sat, 27 Jun 2015 00:00:00 -0400</pubDate>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/icc2015/</guid>
       <description></description>
@@ -96,7 +110,7 @@
     <item>
       <title>Spinoffs and the Mobility of U.S. Merchant Semiconductor Inventors</title>
       <link>http://ccheyre.github.io/publication/ckv2014/</link>
-      <pubDate>Sun, 01 Mar 2015 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
       
       <guid>http://ccheyre.github.io/publication/ckv2014/</guid>
       <description></description>
