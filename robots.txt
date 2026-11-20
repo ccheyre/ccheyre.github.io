@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /files/
+
+Sitemap: https://ccheyre.github.io/sitemap-index.xml
